@@ -1,7 +1,7 @@
 
-<a href="https://github.com/Pepoca80">
-  <img src="https://discord.com/channels/1079922454115385374/1079922454648082474/1417992149907017951">
-</a>
+<p align="center">
+  <img width="460" src="Yakuza 0 GIF.gif">
+</p>
 
 ###
 
