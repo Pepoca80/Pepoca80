@@ -5,7 +5,7 @@
 
 ###
 
-- 🔭 Procurando Trabalho
+- 🔭 Cursando Sistemas de Informação na EACH-USP. Procurando estágio
 - 🌱 Aprendendo C, C++, C#, Python e Java
 - 😄 Pronomes: Rock/Roll
 - ⚡ Fun fact: Platina 3 no Rocket League (Rumo Dimas)
