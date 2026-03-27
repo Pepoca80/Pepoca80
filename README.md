@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="left">
   <img width="460" src="Yakuza 0 GIF.gif">
 </p>
 
