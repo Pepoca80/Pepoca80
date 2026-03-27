@@ -3,7 +3,7 @@
   <img width="460" src="Yakuza 0 GIF.gif">
 </p>
 <p align="right">
-  <img width="460" src="duck.gif">
+  <img width="320" src="duck.gif">
 </p>
 ###
 
