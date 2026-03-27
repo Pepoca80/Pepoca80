@@ -1,7 +1,7 @@
 
 <p align="left">
   <img width="460" src="Yakuza 0 GIF.gif">
-  <p align="right">
+
   <img width="220" src="duck.gif">
 </p>
 
