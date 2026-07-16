@@ -8,7 +8,8 @@
 ###
 
 - 🔭 Cursando Sistemas de Informação na EACH-USP. Procurando estágio
-- 🌱 Aprendendo C, C++, C#, Python e Java
+- 🌱 Aprendendo C++, C#, e Unity
+- Experiência com uso de C, SQL e PostgreSQL, Java, Python e Pacote Office
 - ⚡ Fun fact: Platina 3 no Rocket League (Rumo Dimas)
-"" ""
+
  
